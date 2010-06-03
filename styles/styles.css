@@ -1,0 +1,17 @@
+body{
+ margin:0;
+ padding:0;
+}
+#sortable-thumbs{
+ width:960px;
+ margin:20px auto; 
+}
+
+#sortable-thumbs img{
+ border:1px solid #EEEEEE;
+ padding:3px;
+ margin: 5px;
+ float:left;
+ cursor: pointer;
+ 
+}
